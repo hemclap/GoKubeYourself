@@ -6,7 +6,4 @@ Nous avons donc décidé de mettre à disposition de la communauté une document
 
 Nous avon décidé de corser le jeu en mettant en place une application web permettant d'effectuer toutes ces installations en graphique.
 
-## Installation de minikube
-
-Pour débuter avec kubernetes plusieurs outils sont disponibles. Celui recommandé par la documentation de Kubernetes est minikube. C'est un outil facilitant l’exécution locale de Kubernetes. Minikube exécute un cluster Kubernetes à nœud unique dans une machine virtuelle de votre ordinateur portable.
 
